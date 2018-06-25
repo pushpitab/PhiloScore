@@ -2,12 +2,12 @@ import firebase from 'firebase'
 import firebaseui from 'firebaseui';
 
 const config = {
-  apiKey: "AIzaSyCPMlbHQq6zPm6YbDuJvLR4hj7SK4_VeWo",
-    authDomain: "philescore.firebaseapp.com",
-    databaseURL: "https://philescore.firebaseio.com",
-    projectId: "philescore",
-    storageBucket: "philescore.appspot.com",
-    messagingSenderId: "347007115689"
+  apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 const auth = {
